@@ -1,17 +1,33 @@
-#### Hi there 👻 
+<h1 align='center'>
+  Hi there 👋 I'm Nurbanu 👩‍💻
+</h1>
 
-- I'm a Jr Android Developer at [mackolik ⚽](http://www.mackolik.com) 
+<p align='center'>
+  I'm a Jr Android Developer at   <a href="https://www.mackolik.com/">mackolik</a> ⚽
+</p>
 
 
-- ![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=light)
+<h2 align="center">Technologies & Tools &nbsp;
+    <img src="https://skillicons.dev/icons?i=git,java,kotlin,androidstudio,c,net,github," />
+  </a>
+</h2>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/nurbanukahraman/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+&nbsp;&nbsp;
+  
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkahraman&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nkahraman&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkahraman&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nkahraman)  
-
-[![Nurbanu Kahraman's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkahraman&show_icons=true&theme=radical)](https://github.com/nkahraman/github-readme-stats)    
-
-![Profile views](https://gpvc.arturio.dev/nkahraman)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nkahraman) <a href='https://docs.github.com/en/developers'> <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nurbanukahraman/)  
