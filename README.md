@@ -8,7 +8,7 @@
 
 
 <h2 align="center">Technologies & Tools &nbsp;
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,github,git,vscode,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,github,git,vscode,flutter,dart,python" />
   </a>
 </h2>
 
