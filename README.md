@@ -7,8 +7,8 @@
 </p>
 
 
-<h2 align="center">Technologies & Tools &nbsp;
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,github,git,vscode,flutter,dart,python" />
+<h2 align="center">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,github,vscode,flutter,dart,python" />
   </a>
 </h2>
 
