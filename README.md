@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I'm a Jr Android Developer
+  I'm a Software Developer
 </p>
 
 
