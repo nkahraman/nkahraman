@@ -8,7 +8,7 @@
 
 
 <h2 align="center">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,js,html,css,ts,jquery,angular,cs,dotnet,firebase,git,github,gradle,visualstudio,androidstudio" />
   </a>
 </h2>
 
