@@ -31,7 +31,6 @@
   <a href="#"><img src="https://github-contributor-stats.vercel.app/api?username=nkahraman&limit=5&theme=radical&combine_all_yearly_contributions=true" width="350"></a>
 </p>
 
-
 <h2 align='center'>
 ✍️ Random Dev Quote
 </h2>
