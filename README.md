@@ -1,14 +1,15 @@
-<h1 align='center'>
-  Hi there 👋 I'm Nurbanu 👩‍💻
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnkahraman"><img align="right" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fnkahraman&labelColor=%23ba68c8&countColor=%23d9e3f0&style=flat&labelStyle=lower" /></a>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nurbanu+....;Nice+to+meet+you!&center=true&size=30">
+  </a>
 </h1>
 
-<p align='center'>
-  I'm a Software Developer
-</p>
-
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <h2 align="center">
-    <img src="https://skillicons.dev/icons?i=cs,python,dotnet,java,kotlin,angular,react,flutter,docker,gradle,firebase,github,visualstudio,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=cs,python,dotnet,java,kotlin,angular,react,flutter,firebase,github,visualstudio,androidstudio" />
   </a>
 </h2>
 
@@ -30,6 +31,31 @@
 <p align='center'>
   <a href="#"><img src="https://github-contributor-stats.vercel.app/api?username=nkahraman&limit=5&theme=radical&combine_all_yearly_contributions=true" width="350"></a>
 </p>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/nkahraman/FlightReservationSystem" title="FlightReservationSystem"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nkahraman&repo=FlightReservationSystem&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/nkahraman/People" title="People">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nkahraman&repo=People&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/nkahraman/taskt" title="taskt"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nkahraman&repo=taskt&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/nkahraman/AppWidget" title="AppWidget">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nkahraman&repo=AppWidget&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/nkahraman/instakotlinapp" title="instakotlinapp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nkahraman&repo=instakotlinapp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/nkahraman/okhttp" title="okhttp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nkahraman&repo=okhttp&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/nkahraman?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 <h2 align='center'>
 ✍️ Random Dev Quote
