@@ -59,16 +59,8 @@
 </h4>
 
 <h2 align='center'>
-✍️ Random Dev Quote
-</h2>
-<p align='center'>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="height: 300px;"/>
-</p>
-
-<h2 align='center'>
 😂 Random Dev Meme
 </h2>
-
 <p align='center'>
 <img src="https://randommeme-five.vercel.app/" style="height: 400px;"/>
 </p>
