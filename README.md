@@ -9,7 +9,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <h2 align="center">
-    <img src="https://skillicons.dev/icons?i=cs,python,dotnet,java,kotlin,angular,react,flutter,firebase,github,visualstudio,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=cs,python,dotnet,angular,java,kotlin,firebase,github,visualstudio,androidstudio" />
   </a>
 </h2>
 
