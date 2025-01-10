@@ -58,11 +58,5 @@
   <a href="https://github.com/nkahraman?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<h2 align='center'>
-😂 Random Dev Meme
-</h2>
-<p align='center'>
-<img src="https://randommeme-five.vercel.app/" style="height: 400px;"/>
-</p>
 
 
